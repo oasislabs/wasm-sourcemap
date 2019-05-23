@@ -2,9 +2,9 @@ WASM Sourcemaps
 ===
 
 Sourcemaps provide a working path to step-through
-debugging in Web Assembly code, but with a caveat:
+debugging in WebAssembly code, but with a caveat:
 
-The interface for execution of Web Assembly is
+The interface for execution of WebAssembly is
 
 ```javascript
 WebAssembly.instantiate(bufferSource, importObject);
