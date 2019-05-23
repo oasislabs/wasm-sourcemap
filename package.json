@@ -1,0 +1,25 @@
+{
+  "name": "wasm-sourcemap",
+  "version": "1.0.0",
+  "description": "Manage WASM Source Maps",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oasislabs/wasm-sourcemap.git"
+  },
+  "keywords": [
+    "wasm"
+  ],
+  "author": "Oasis Labs <info@oasislabs.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/oasislabs/wasm-sourcemap/issues"
+  },
+  "homepage": "https://github.com/oasislabs/wasm-sourcemap#readme",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
