@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/oasislabs/wasm-sourcemap#readme",
   "devDependencies": {
-    "mocha": "^6.1.4"
+    "mocha": "^10.2.0"
   }
 }
